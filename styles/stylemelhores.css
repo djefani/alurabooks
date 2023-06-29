@@ -158,8 +158,3 @@ body {
   font-weight: 500;
   line-height: 24px;
 }
-
-.melhores{
-    background-color: var(--text-title-color);
-    color: var(--text-price-color);
-}
