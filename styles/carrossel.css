@@ -136,6 +136,7 @@
     }
 }
 .melhores{
+    text-decoration: none;
     background: var(--laranja);
     color: var(--azul);
 }
