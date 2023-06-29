@@ -174,3 +174,8 @@
     text-decoration: none;
     color: var(--preto);
 }
+
+.melhores {
+    text-decoration: none;
+    color: var(--laranja);
+}

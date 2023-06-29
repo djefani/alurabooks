@@ -93,6 +93,9 @@
         top: 60%;
     }
 
+    .swiper-button-next:after, .swiper-button-prev:after {
+         display: none; }
+
     .card {
         width: 60%;
         margin: 2em auto;
@@ -131,4 +134,8 @@
         width: 60%;
         margin-left: 3em;
     }
+}
+.melhores{
+    background: var(--laranja);
+    color: var(--azul);
 }
